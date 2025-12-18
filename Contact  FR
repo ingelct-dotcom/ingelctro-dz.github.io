@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Electrotechnique - Contact</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>Electrotechnique</h1>
+    <nav>
+        <a href="index.html">Accueil</a>
+        <a href="services.html">Services</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <div class="lang">
+        <a href="../index.html">FR</a> | <a href="../ar/contact.html">AR</a> | <a href="../en/contact.html">EN</a>
+    </div>
+</header>
+
+<main>
+<section id="contact">
+    <h2>Contactez-nous</h2>
+    <p>Email: <a href="mailto:ing.elct@gmail.com">ing.elct@gmail.com</a></p>
+    <p>Téléphone: +213770874500</p>
+</section>
+</main>
+
+<footer>
+    <p>© 2025 Electrotechnique. Tous droits réservés.</p>
+</footer>
+</body>
+</html>
