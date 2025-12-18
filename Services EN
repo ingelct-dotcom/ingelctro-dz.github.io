@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Electrotechnics - Services</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<header>
+    <h1>Electrotechnics</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="services.html">Services</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <div class="lang">
+        <a href="../index.html">FR</a> | <a href="../ar/services.html">AR</a> | <a href="../en/services.html">EN</a>
+    </div>
+</header>
+
+<main>
+<section id="services">
+    <h2>Our Services</h2>
+    <ul>
+        <li>Electrical installation and maintenance</li>
+        <li>Industrial circuit design</li>
+        <li>Technical consulting and support</li>
+    </ul>
+</section>
+</main>
+
+<footer>
+    <p>© 2025 Electrotechnics. All rights reserved.</p>
+</footer>
+</body>
+</html>
