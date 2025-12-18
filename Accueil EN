@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Electrotechnics - Home</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<header>
+    <h1>Electrotechnics</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="services.html">Services</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <div class="lang">
+        <a href="../index.html">FR</a> | <a href="../ar/index.html">AR</a> | <a href="../en/index.html">EN</a>
+    </div>
+</header>
+
+<main>
+<section id="accueil">
+    <h2>Welcome to our website</h2>
+    <p>We provide electrotechnical services and projects. Discover our achievements and contact us easily.</p>
+</section>
+</main>
+
+<footer>
+    <p>© 2025 Electrotechnics. All rights reserved.</p>
+</footer>
+</body>
+</html>
