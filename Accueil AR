@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>الكهرباء التقنية - الصفحة الرئيسية</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<header>
+    <h1>الكهرباء التقنية</h1>
+    <nav>
+        <a href="index.html">الرئيسية</a>
+        <a href="services.html">الخدمات</a>
+        <a href="contact.html">اتصل بنا</a>
+    </nav>
+    <div class="lang">
+        <a href="../index.html">FR</a> | <a href="../ar/index.html">AR</a> | <a href="../en/index.html">EN</a>
+    </div>
+</header>
+
+<main>
+<section id="accueil">
+    <h2>مرحبا بكم في موقعنا</h2>
+    <p>نقدم خدمات ومشاريع في مجال الكهرباء التقنية. اكتشف إنجازاتنا واتصل بنا بسهولة.</p>
+</section>
+</main>
+
+<footer>
+    <p>© 2025 الكهرباء التقنية. جميع الحقوق محفوظة.</p>
+</footer>
+</body>
+</html>
