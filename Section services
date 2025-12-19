@@ -1,0 +1,17 @@
+<section id="services">
+  <h2>Nos Services</h2>
+  <div class="services-container">
+    <div class="service">
+      <h3>⚡ Électrotechnique</h3>
+      <p>Étude, installation et maintenance des systèmes électriques industriels.</p>
+    </div>
+    <div class="service">
+      <h3>🛠 Maintenance</h3>
+      <p>Dépannage, diagnostic et réparation des équipements électriques.</p>
+    </div>
+    <div class="service">
+      <h3>📐 Études & Conseils</h3>
+      <p>Analyse technique, optimisation et accompagnement de projets.</p>
+    </div>
+  </div>
+</section>
